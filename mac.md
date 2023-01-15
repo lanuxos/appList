@@ -40,6 +40,7 @@ brew install youtube-dl
 brew install zsh
 # homebrew cask
 brew install --cask iterm2
+brew install --cask airdroid
 brew install --cask alfred
 brew install --cask android-file-transfer
 brew install --cask android-studio
