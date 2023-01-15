@@ -3,8 +3,8 @@
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 # choco
-choco install 1password -y
 choco install 7zip.install -y
+choco install authy-desktop -y
 choco install cpu-z.install -y
 choco install crystaldiskinfo -y
 choco install curl -y
@@ -23,7 +23,7 @@ choco install greenshot -y
 choco install innosetup -y
 choco install itunes -y
 choco install k-litecodecpackfull -y
-choco install keepass.install -y
+choco install keepassxc -y
 choco install launchy -y
 choco install lockhunter -y
 choco install microsoft-windows-terminal -y
