@@ -44,6 +44,7 @@ brew install --cask alfred
 brew install --cask android-file-transfer
 brew install --cask android-studio
 brew install --cask anydesk
+brew install --cask authy
 brew install --cask avast-security
 brew install --cask cheatsheet
 brew install --cask db-browser-for-sqlite
@@ -53,7 +54,7 @@ brew install --cask droidid
 brew install --cask firefox
 brew install --cask go2shell
 brew install --cask google-chrome
-brew install --cask lastpass
+brew install --cask keepassxc
 brew install --cask mamp
 brew install --cask macs-fan-control
 brew install --cask mongodb-compass-isolated-edition
@@ -63,7 +64,6 @@ brew install --cask pocket-casts
 brew install --cask postman
 brew install --cask pycharm-ce
 brew install --cask sequel-pro
-brew install snappy
 brew install --cask spectacle
 brew install --cask sublime-text
 brew install --cask teamviewer
