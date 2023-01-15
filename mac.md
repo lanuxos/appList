@@ -93,8 +93,5 @@ Python
 Splashtop XDisplay.app
 Tuxera Disk Manager.app
 Who's On My WiFi.app
-<<<<<<< HEAD
 wireshark
-=======
-wireshare
->>>>>>> b6b56d0bc3f99b997514667f1318b31a358c4f25
+
