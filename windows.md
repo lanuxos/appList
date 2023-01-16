@@ -15,14 +15,15 @@ choco install everything -y
 choco install ffmpeg -y
 choco install filezilla -y
 choco install firefox -y
-choco install foobar2000
+choco install foobar2000 -y
 choco install git-fork -y
 choco install git.install -y
 choco install golang -y
 choco install googlechrome -y
+choco install googledrive -y
 choco install greenshot -y
 choco install innosetup -y
-choco install io-unlocker
+choco install io-unlocker -y
 choco install itunes -y
 choco install k-litecodecpackfull -y
 choco install keepassxc -y
@@ -32,6 +33,7 @@ choco install microsoft-windows-terminal -y
 choco install nmap -y
 choco install nodejs.install -y
 choco install notepadplusplus -y
+choco install onedrive -y
 choco install openvpn -y
 choco install pgAdmin4 -y
 choco install postman -y
@@ -70,3 +72,4 @@ adobe illustrator
 adobe ligthroom
 lao script
 foxit pdf
+cisco packet tracer
