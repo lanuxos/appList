@@ -22,6 +22,7 @@ choco install golang -y
 choco install googlechrome -y
 choco install greenshot -y
 choco install innosetup -y
+choco install io-unlocker
 choco install itunes -y
 choco install k-litecodecpackfull -y
 choco install keepassxc -y
