@@ -5,6 +5,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # choco
 choco install 7zip.install -y
 choco install airdroid -y
+choco install allway-sync -y
 choco install authy-desktop -y
 choco install cpu-z.install -y
 choco install crystaldiskinfo -y
