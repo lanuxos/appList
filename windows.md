@@ -43,6 +43,7 @@ choco install procman -y
 choco install putty.install -y
 choco install python -y
 choco install qbittorent -y
+choco install rambox
 choco install revo-uninstall
 choco install rufus -y
 choco install sqlitebrowser -y
