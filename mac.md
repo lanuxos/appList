@@ -64,6 +64,7 @@ brew install --cask pdf-expert
 brew install --cask pocket-casts
 brew install --cask postman
 brew install --cask pycharm-ce
+brew install --cask rambox
 brew install --cask rectangle
 brew install --cask sequel-pro
 brew install --cask spectacle
