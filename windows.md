@@ -31,6 +31,7 @@ choco install keepassxc -y
 choco install launchy -y
 choco install lockhunter -y
 choco install microsoft-windows-terminal -y
+choco install mousewithoutborders -y
 choco install nmap -y
 choco install nodejs.install -y
 choco install notepadplusplus -y
