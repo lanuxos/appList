@@ -7,6 +7,7 @@ brew install cairo
 brew install calc
 brew install curl
 brew install dart
+brew install dockutil
 brew install emacs
 brew install ffmpeg
 brew install git
@@ -81,6 +82,8 @@ brew install --cask wechat
 brew install --cask whatsapp
 brew install --cask xmind
 brew install --cask foobar2000
+# brewing
+brew update && brew upgrade && brew cleanup && brew doctor
 # other sources
 Adobe
 Amphetamine.app
