@@ -35,6 +35,7 @@ choco install mousewithoutborders -y
 choco install nmap -y
 choco install nodejs.install -y
 choco install notepadplusplus -y
+choco install ntop.portable -y
 choco install onedrive -y
 choco install openvpn -y
 choco install pgAdmin4 -y
