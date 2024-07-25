@@ -70,6 +70,7 @@ brew install --cask rectangle
 brew install --cask sequel-pro
 brew install --cask spectacle
 brew install --cask sublime-text
+brew install --cask tailscale
 brew install --cask teamviewer
 brew install --cask the-unarchiver
 brew install --cask thonny
