@@ -4,7 +4,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 # choco basic packages
 choco install 7zip.install cpu-z.install crystaldiskinfo curl docker-desktop everything ffmpeg filezilla firefox foobar2000 git-fork git.install golang googlechrome googledrive greenshot io-unlocker itunes k-litecodecpackfull launchy lockhunter microsoft-windows-terminal nodejs.install notepadplusplus ntop.portable onedrive pgAdmin4 postman putty.install python qbittorent revo-uninstall
-choco install rufus sqlitebrowser sublimetext3 teamviewer telegram virtualbox visualstudio2019community vlc vscode wechat whatsapp windirstat winrar wsl -y
+choco install rufus sqlitebrowser sublimetext3 tailscale teamviewer telegram virtualbox visualstudio2019community vlc vscode wechat whatsapp windirstat winrar wsl -y
 
 
 # choco alternative basic packave
