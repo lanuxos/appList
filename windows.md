@@ -4,9 +4,9 @@ Set-ExecutionPolicy AllSigned
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 # choco basic packages
-choco install 7zip.install firefox foobar2000 googlechrome revo-uninstall sumatrapdf.install teamviewer vlc wechat whatsapp winrar -y
+choco install revo-uninstall 7zip.install firefox foobar2000 googlechrome sumatrapdf.install teamviewer vlc wechat whatsapp winrar -y
 
-choco install cpu-z.install crystaldiskinfo curl docker-desktop everything ffmpeg filezilla git-fork git.install golang googledrive greenshot io-unlocker k-litecodecpackfull launchy lockhunter microsoft-windows-terminal nodejs.install notepadplusplus ntop.portable onedrive pgAdmin4 postman putty.install python qbittorent rufus sqlitebrowser sublimetext3 tailscale telegram teracopy virtualbox visualstudio2019community vscode windirstat wsl -y
+choco install cpu-z.install crystaldiskinfo curl docker-desktop everything ffmpeg filezilla git-fork git.install golang googledrive greenshot io-unlocker k-litecodecpackfull launchy lockhunter microsoft-windows-terminal nodejs.install notepadplusplus ntop.portable onedrive pgAdmin4 postman putty.install python qbittorent rufus sqlitebrowser sublimetext3 tailscale telegram teracopy virtualbox visualstudio2022community vscode windirstat wsl -y
 
 
 # choco alternative basic packages
